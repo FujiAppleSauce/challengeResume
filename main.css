@@ -1,0 +1,52 @@
+header {
+  display:block; /* to render properly in IE9 or other legacy browser */
+  background-color:#0d88db;
+  border: 3px solid #04488c;
+  padding: 30px;
+}
+
+section	{
+	background-color: #ebebeb;
+	margin: 40px;
+
+}
+
+body {
+	border: 5px solid #0d88db;
+}
+
+h2 {
+	padding-left: 30px;
+}
+
+h3,
+h4 {
+	display: inline;
+	text-align: center;
+}
+
+.alignleft {
+	float: left;
+	padding-left: 5px;
+}
+
+.alignright {
+	float: right;
+	padding-right: 5px;
+}
+
+.aligncenter {
+	float: right;
+	padding-right: 400px;
+	font-size: 20px;
+	color: #f48f42;
+}
+
+.clear {
+	clear:both;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
